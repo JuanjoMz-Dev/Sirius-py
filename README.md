@@ -1,16 +1,15 @@
-### Hi there 👋
+## Hello 👋
 
-<!--
-**Sirius-py/Sirius-py** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Chris, i'm from Colombia and i'm an Electronic Engineering student.
 
-Here are some ideas to get you started:
+* Currently studying in IUE (Institución Universitaria de Envigado)
+* I'm learning some data analytics and data science
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+* Python, C++ and MATLAB
+* Arduino, PLC and Xilinx
+* IoT (MQTT, LoRa, etc)
+* Docker
+* Critical thinking, decision-making and problem solving skills
+* Some skills in pentesting
