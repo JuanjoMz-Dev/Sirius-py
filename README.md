@@ -27,7 +27,7 @@ My name is Chris, from Colombia.
 
 ## 🔥 &nbsp; My Stats
 <p>
-<a href="https://github.com/julcode">
+<a href="https://github.com/Sirius-py">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sirius-py&show_icons=true&theme=tokyonight" />
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Sirius-py&theme=tokyonight&layout=compact&exclude_lang=java+r" />
 </a>
