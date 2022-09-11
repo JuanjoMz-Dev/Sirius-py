@@ -28,8 +28,8 @@ My name is Chris, from Colombia.
 I really love automation and robotics, that's my favorite tech subject. But as a matter of fact, i just love coding and create new things. Here you can see some of my projects.
 
 - IoT
-  - [Ceres](https://github.com/Sirius-py/ceres-iot)
-  - [Urkdash](https://github.com/Urkdash)
+  - <a href="https://github.com/Sirius-py/ceres-iot" target="_blank">Ceres</a>
+  - <a href="https://github.com/Urkdash" target="_blank">Urkdash</a>
 
 ## 🔥 &nbsp; My Stats
 <p>
@@ -41,5 +41,5 @@ I really love automation and robotics, that's my favorite tech subject. But as a
 
 ## 🤝🏻 &nbsp; Contact
 
-* [Linkedin](https://www.linkedin.com/in/cristian-larios-4185891a3/)
-* [Telegram](https://t.me/Sirius_py)
+* <a href="https://www.linkedin.com/in/cristian-larios-4185891a3/" target="_blank">Linkedin</a>
+* <a href="https://t.me/Sirius_py" target="_blank">Telegram</a>
