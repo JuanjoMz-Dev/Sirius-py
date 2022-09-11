@@ -24,6 +24,12 @@ My name is Chris, from Colombia.
 * AWS & Azure
 * Linux
 
+## 📌 &nbsp;Projects
+I really love automation and robotics, that's my favorite tech subject. But as a matter of fact, i just love coding and create new things. Here you can see some of my projects.
+
+- IoT
+  - [Ceres](https://github.com/Sirius-py/ceres-iot)
+  - [Urkdash](https://github.com/Urkdash)
 
 ## 🔥 &nbsp; My Stats
 <p>
